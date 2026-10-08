@@ -1,5 +1,18 @@
 # Makerspace Standards of Excellence
 
+> **This repository has moved.** The Standards of Excellence now live in
+> [makehaven/makerspace-network](https://github.com/makehaven/makerspace-network),
+> as one part of a space's home on [makerspace.network](https://makerspace.network/?page=standards):
+>
+> - the framework, as versioned data — [`data/standards/framework.v1.json`](https://github.com/makehaven/makerspace-network/blob/main/data/standards/framework.v1.json)
+> - how it works and the privacy model — [`docs/STANDARDS.md`](https://github.com/makehaven/makerspace-network/blob/main/docs/STANDARDS.md)
+> - the gap analysis — [`docs/STANDARDS_GAPS.md`](https://github.com/makehaven/makerspace-network/blob/main/docs/STANDARDS_GAPS.md)
+> - the assessment itself — sign in at makerspace.network, open **Your space**, choose **Standards self-assessment**.
+>   It saves as you go and is private to your space's staff.
+>
+> The single-file tool below is kept as it was on 2026-10-08 and is no longer maintained.
+> `standards.makerspace.network` now redirects to the new home.
+
 A self-assessment framework and benchmarking tool for makerspaces, and for networks
 of makerspaces that want a shared way to talk about operational maturity.
 
